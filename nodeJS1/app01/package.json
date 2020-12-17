@@ -1,0 +1,17 @@
+{
+  "name": "prayuth",
+  "version": "1.0.0",
+  "description": "I have the most powerful in this country, Ya know?",
+  "main": "index.ts",
+  "scripts": {
+    "start": "node main.js",
+    "test": "console.log(\"My name is prayuth\");"
+  },
+  "author": "trithep.ch.62@ubu.ac.th",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.0",
+    "requests": "^0.3.0",
+    "@types/axios": "^0.14.0"
+  }
+}
